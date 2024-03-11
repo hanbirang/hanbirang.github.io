@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+#welcome {
+    text-align: center; 
+    margin-bottom: 50px;
+}
+
+.pj {
+    text-align: center;
+}
+
+.pj_title {
+    font-size: 20px;
+}
+
+.pj_btn {
+    font-size: 25px;
+    width: 150px;
+    height: 30px;
+}
+
+.pj_img {
+    width: 300px;
+    height: 300px;
+}
